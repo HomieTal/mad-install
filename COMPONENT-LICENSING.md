@@ -1,0 +1,46 @@
+> Historical component licensing note from the Echo OS monorepo.
+> This repository is now licensed under the proprietary LICENSE at the root.
+
+Proprietary License — Echo OS Component
+
+Copyright (c) 2026 HomieTal / Echo OS Project. All rights reserved.
+
+This software and its associated files (source code, configuration, scripts,
+artwork, branding assets, and documentation), collectively the "Software",
+are the proprietary work of the Echo OS Project and are licensed, not sold.
+
+1. Grant
+   No rights are granted by default. You may view and clone this repository
+   for personal, non-commercial evaluation only.
+
+2. Restrictions
+   Without the prior written permission of the copyright holder, you may NOT:
+     a. use, copy, or modify the Software or any derivative of it, in whole
+        or in part, for any purpose beyond the evaluation grant above;
+     b. distribute, sublicense, publish, mirror, or make available the
+        Software or derivatives of it, in source or binary form;
+     c. use the Software, or the Echo OS name, marks, or branding assets,
+        to build a competing or derived distribution;
+     d. remove or alter this notice, copyright statements, or attribution
+        contained in the Software.
+
+3. Third-Party Components
+   Third-party components vendored into or referenced by the Software are
+   NOT licensed under this License; they remain under their own licenses
+   and copyright notices, which are preserved where present (see
+   THIRD-PARTY-NOTICES.md and/or per-directory license files where
+   applicable).
+
+4. Warranty and Liability
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR
+   ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+5. Contact
+   Licensing inquiries and permission requests: contact via the GitHub
+   account HomieTal (https://github.com/HomieTal).
+
+Copyright (c) 2026 HomieTal / Echo OS Project. All rights reserved.
